@@ -1,1 +1,1 @@
-/api/* 
+/api/* http://todotest5.ap-southeast-2.elasticbeanstalk.com/api/:splat 200
